@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 I’m Chase, 
-a Full-Stack Web Developer, with meticulous attention to detail & styled who loves to problem-solve with clean, semantic code while always learning and improving my skills. My specialties include: JavaScript, React, HTML, CSS/SASS/LESS/Material-UI/Semantic-UI & Node/Express. I'm currently seeking a Front-End or Full-Stack Developer role in northern Colorado or remotely anywhere in the world. I love to solve problems, create well-designed applications with impeccable UI/UX and find deep satisfaction in collaborating with teams to make software that makes a difference in peoples lives and the world. 
+a Full-Stack Web Developer, with meticulous attention to detail & styled who loves to problem-solve with clean, semantic code while always learning and improving my skills. My specialties include: JavaScript, React, HTML, CSS/SASS/LESS/Material-UI/Semantic-UI & Node/Express. I love to solve problems, create well-designed applications with impeccable UI/UX and find deep satisfaction in collaborating with teams to make software that makes a difference in peoples lives and the world. I'm currently seeking a Front-End or Full-Stack Developer role in northern Colorado or remotely anywhere in the world. 
 
 ## 🔭 I'm currently working on...
 [ReVitalize](https://staging.d1y2qgealrmo9w.amplifyapp.com/), a modern approach to building your community through crowdfunding to create apprenticeship opportunities to help tradesmen develop skills to gain licensing. Built with React, SASS, Apollo, Prisma & GraphQL. Currently Collaborating with 4 remote team members in Agile development environment to iterate through 3 release-canvasses of numerous bug fixes, accessibility issues and addition of several new features.
