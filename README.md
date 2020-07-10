@@ -22,6 +22,6 @@ Resume: (https://resume.creddle.io/resume/8qf10czfrxt)
 LinkedIn: (https://www.linkedin.com/in/chase-collins42/)
 
 ## ⚡ Fun fact...
-I've been a head coffee roaster for 3+ at two high-end specialty coffee roasters in Northern Colorado. 
+I've been a head coffee roaster for 3+ years at two high-end specialty coffee roasters in Northern Colorado. This has honed my skills in organization, problem-solving (coffee is seasonal and varies from farm to farm), communication & self-motivation. 
 
 
