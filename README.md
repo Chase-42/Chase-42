@@ -7,7 +7,7 @@ a Full-Stack Web Developer, with meticulous attention to detail & styled who lov
 ReVitalize [https://staging.d1y2qgealrmo9w.amplifyapp.com/], a modern approach to building your community through crowdfunding to create apprenticeship opportunities to help tradesmen develop skills to gain licensing. Built with React, SASS, Apollo, Prisma & GraphQL. Currently Collaborating with 4 remote team members in Agile development environment to iterate through 3 release-canvasses of numerous bug fixes, accessibility issues and addition of several new features.
 So far I have been solely responsible for: creating a FAQ page page to clearly represent the application's intent and answer frequently asked questions users might have, achieved 100% test coverage on the footer component via Jest, and re-designed the dashboard component to be fully responsive across desktop, tablet & phone views. 
 
-I'm also constantly tweaking my portfolio website [https://chasecollins.tech], a single page React app that I built from scratch and styled using [Styled-Components](https://styled-components.com/). 
+I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), a single page React app that I built from scratch and styled using [Styled-Components](https://styled-components.com/). 
 
 ## 🌱 I'm currently learning...
 - [MongoDB](https://www.mongodb.com/new?tck=sitebannerdotlive)
