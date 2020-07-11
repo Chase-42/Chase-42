@@ -1,7 +1,9 @@
+![portfolioheader](https://lh3.googleusercontent.com/pw/ACtC-3cKM1W-9vJ2mh5IuHP_OlEiPsL6-R08ZM9ryLmOcqNAf_VGGdU-ifCwPyYE9334Rl9hyHNvW-oe_k7Ty6fs_1tOnAoCXmoqcuQbboNLlqKXjo6L-owpCJJKXEO8AhuKrgPe5zKjlMJwbtUJiqLjMXsG=w3362-h678-no?authuser=0)
+
 # Hey there! 👋
 
 I’m Chase, 
-a Full-Stack Web Developer, with meticulous attention to detail & styled who loves to problem-solve with clean, semantic code while always learning and improving my skills. My specialties include: JavaScript, React, HTML, CSS/SASS/LESS/Material-UI/Semantic-UI & Node/Express. I love to solve problems, create well-designed applications with impeccable UI/UX and find deep satisfaction in collaborating with teams to make software that makes a difference in peoples lives and the world. I'm currently seeking a Front-End or Full-Stack Developer role (or internship) in Northern Colorado or remotely anywhere in the world. 
+a Full-Stack Web Developer, with meticulous attention to detail & styled who loves to problem-solve with clean, semantic code while always learning and improving my skills. My specialties include: JavaScript, React, HTML, CSS/SASS/LESS/Material-UI/Semantic-UI & Node/Express. I love to solve problems, create well-designed applications with impeccable UI/UX and find deep satisfaction in collaborating with teams to make software that makes a difference in people's lives and the world. I'm currently seeking a Front-End or Full-Stack Developer role (or internship) in Northern Colorado or remotely anywhere in the world. 
 
 ## 🔭 I'm currently working on...
 [ReVitalize](https://staging.d1y2qgealrmo9w.amplifyapp.com/), a modern approach to building your community through crowdfunding to create apprenticeship opportunities that help tradesmen develop skills to gain licensing. Built with React, SASS, Apollo, Prisma & GraphQL. Currently collaborating with 4 remote team members in Agile development environment to iterate through 3 release-canvasses of numerous bug fixes, accessibility issues and addition of several new features.
