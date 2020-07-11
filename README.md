@@ -27,4 +27,4 @@ LinkedIn: https://www.linkedin.com/in/chase-collins42/
 ## ⚡ Fun facts...
 I've been a head coffee roaster for 3+ years at two high-end specialty coffee roasters in Northern Colorado. This has honed my skills in organization, problem-solving (coffee is seasonal and varies from farm to farm, so never a constant variable), communication & self-motivation. I've maintained and excelled at this full-time job while learning web development in the evenings and weekends at [Lambda School](https://lambdaschool.com/), a fully remote 18 month bootcamp that teaches Full-Stack Web Development & Computer Science through hands on curriculum and fosters a Agile software development environment throughout the entire course. 
 
-I'm also a major book nerd who usually has a stack of books I'm currently reading. 
+
