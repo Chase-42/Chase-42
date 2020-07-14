@@ -3,7 +3,7 @@
 # Hey there! 👋
 
 I’m Chase, 
-a code/design/book/metal music/keyboard nerd, with meticulous attention to detail & styled who loves to problem-solve with clean, semantic code while always learning and improving my skills. My specialties include: JavaScript, React, HTML, CSS/SASS/LESS/Material-UI/Semantic-UI & Node/Express. I am deeply passionate about solving problems, creating thoughtfully-designed applications with impeccable UI/UX and find deep satisfaction in collaborating with teams to make software that makes a difference in people's lives and the world. I'm currently seeking a Front-End or Full-Stack Developer role (or internship) in Northern Colorado or remotely anywhere in the world. 
+a code/design/book/metal music/keyboard nerd, with meticulous attention to detail & styled who loves to problem-solve with clean, semantic code while always learning and improving my skills. My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am deeply passionate about solving problems, creating thoughtfully-designed applications with impeccable UI/UX and find deep satisfaction in collaborating with teams to make software that makes a difference in people's lives and the world. I'm currently seeking a Front-End or Full-Stack Developer role (or internship) in Northern Colorado or remotely anywhere in the world. 
 
 <details>
   <summary>Some interesting facts about me!</summary>
@@ -21,11 +21,11 @@ I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), 
 
 ## 📫 You can lear more about me and reach me at...
 
-Portfolio: https://chasecollins.tech
+[Portfolio](https://chasecollins.tech)
 
-Resume: https://resume.creddle.io/resume/8qf10czfrxt
+[Resume](https://resume.creddle.io/resume/8qf10czfrxt)
 
-LinkedIn: https://www.linkedin.com/in/chase-collins42/
+[LinkedIn](https://www.linkedin.com/in/chase-collins42/)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Chase-42&show_icons=true)
 
