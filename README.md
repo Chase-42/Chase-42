@@ -19,7 +19,7 @@ I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), 
 - [Webpack](https://webpack.js.org/)
 - [GraphQL](https://graphql.org/)
 
-## 📫 You can lear more about me and reach me at...
+## 📫 You can lear more about me and reach me at my...
 
 [Portfolio](https://chasecollins.tech)
 
