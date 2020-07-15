@@ -27,7 +27,7 @@ I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), 
 
 [LinkedIn](https://www.linkedin.com/in/chase-collins42/)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Chase-42&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Chase-42&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## ⚡ Some trivia about me...
 I've been a head coffee roaster for 3+ years at two high-end specialty coffee roasters in Northern Colorado. This has honed my skills in organization, problem-solving (coffee is seasonal and varies from farm to farm, so never a constant variable), communication & self-motivation. I've maintained and excelled at this full-time job while learning web development in the evenings and weekends at [Lambda School](https://lambdaschool.com/), a fully remote 18 month bootcamp that teaches Full-Stack Web Development & Computer Science through hands on curriculum and fosters a Agile software development environment throughout the entire course. 
