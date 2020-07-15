@@ -3,7 +3,7 @@
 # Hey there! 👋
 
 I’m Chase, 
-a code/UX/UI/book/metal music/keyboard nerd, with meticulous attention to detail & styled who loves to problem-solve with clean, semantic code while always learning and improving my skills. My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am deeply passionate about solving problems, creating thoughtfully-designed applications with impeccable UI/UX and find deep satisfaction in collaborating with teams to make software that makes a difference in people's lives and the world. I'm currently seeking a Front-End or Full-Stack Developer role (or internship) in Northern Colorado or remotely anywhere in the world. 
+a code/UX/UI/book/metal music/keyboard nerd, with meticulous attention to detail & styled who loves to problem-solve with clean, semantic code while always learning and improving my skills. My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am passionate about creating solutions, iterating on well-designed applications with impeccable UI/UX and and find deep satisfaction in collaborating with teams to build software that makes a difference in people's lives and the world. 
 
 <details>
   <summary>Learn more!</summary>
@@ -32,7 +32,7 @@ I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), 
 ## ⚡ Some trivia about me...
 I've been a head coffee roaster for 3+ years at two high-end specialty coffee roasters in Northern Colorado. This has honed my skills in organization, problem-solving (coffee is seasonal and varies from farm to farm, so never a constant variable), communication & self-motivation. I've maintained and excelled at this full-time job while learning web development in the evenings and weekends at [Lambda School](https://lambdaschool.com/), a fully remote 18 month bootcamp that teaches Full-Stack Web Development & Computer Science through hands on curriculum and fosters a Agile software development environment throughout the entire course. 
 
-I'm an avid rock climber.
+I'm an avid rock climber and corgi dad. 
 
 I'm a voracious reader who always has a stack of books I'm reading (Sci-Fi, Fantasy, Literature, Philosophy, Science & History). 
 
