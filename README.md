@@ -3,7 +3,7 @@
 # Hey there! 👋
 
 I’m Chase, 
-a code/UX/UI/book/metal music/keyboard nerd, with meticulous attention to detail & styled who loves to problem-solve with clean, semantic code while always learning and improving my skills. My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am passionate about creating solutions, iterating on well-designed applications with impeccable UI/UX and and find deep satisfaction in collaborating with teams to build software that makes a difference in people's lives and the world. 
+a code/design/keyboard/metal music/film nerd, with meticulous attention to detail & styled who loves to problem-solve with clean, semantic code while always learning and improving my skills. My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am passionate about creating solutions, iterating on well-designed applications with impeccable UI/UX and and find deep satisfaction in collaborating with teams to build software that makes a difference in people's lives and the world. 
 
 <details>
   <summary>Learn more!</summary>
