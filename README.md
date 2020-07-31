@@ -3,10 +3,10 @@
 # Hey there! 👋
 
 I’m Chase, 
-a code/design/keyboard/metal music/film nerd, with meticulous attention to detail & styled who loves to problem-solve with clean, semantic code while always learning and improving my skills. My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am passionate about creating solutions, iterating on well-designed applications with impeccable UI/UX and and find deep satisfaction in collaborating with teams to build software that makes a difference in people's lives and the world. 
+a code/design/keyboard/metal music/film nerd, with meticulous attention to detail & style who loves to problem-solve with clean, semantic code while always learning and improving my skills. My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am passionate about creating solutions, iterating on well-designed applications with impeccable UI/UX and and find deep satisfaction in collaborating with teams to build software that makes a difference in people's lives and the world. 
 
 <details>
-  <summary>Learn more!</summary>
+  <summary>LEARN MORE!</summary>
   
 ## 🔭 I'm currently working on...
 [ReVitalize](https://staging.d1y2qgealrmo9w.amplifyapp.com/), a modern approach to building your community through crowdfunding to create apprenticeship opportunities that help tradesmen develop skills to gain licensing. Built with React, SASS, Apollo, Prisma & GraphQL. Currently collaborating with 4 remote team members in Agile development environment to iterate through 3 release-canvasses of numerous bug fixes, accessibility issues and addition of several new features.
