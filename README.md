@@ -3,22 +3,21 @@
 # Hey there! 👋
 
 I’m Chase, 
-I currently am a Junior Web Developer Intern at [SetPatrol](https://www.setpatrol.com/). 
+I currently am a Junior Web Developer Intern at [SetPatrol](https://www.setpatrol.com/) and finishing up my time as a student at Lambda School. 
 My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am passionate about creating solutions, iterating on well-designed applications with impeccable UI/UX and and find deep satisfaction in collaborating with teams to build software that makes a difference in people's lives and the world. 
 
 <details>
   <summary>LEARN MORE!</summary>
   
 ## 🔭 I'm currently working on...
-[ReVitalize](https://staging.d1y2qgealrmo9w.amplifyapp.com/), a modern approach to building your community through crowdfunding to create apprenticeship opportunities that help tradesmen develop skills to gain licensing. Built with React, SASS, Apollo, Prisma & GraphQL. Currently collaborating with 4 remote team members in Agile development environment to iterate through 3 release-canvasses of numerous bug fixes, accessibility issues and addition of several new features.
-So far I have been solely responsible for: creating a FAQ page page to clearly represent the application's intent and answer frequently asked questions users might have, achieved 100% test coverage on the footer component via Jest, and re-designed the dashboard component to be fully responsive across desktop, tablet & phone views. 
+[SetPatrol](https://www.setpatrol.com/), SetPatrol is a marketplace where people who need high-end photography and film equipment can find people who are willing to rent it out. There is a huge problem in the film industry and SetPatrol is trying to change all that. As StoryTellers we work in a field focused on results. Clients are fixated on beautiful, dramatic and creative work. We are victims of our own success; a high demand market, quick turnarounds and forever revamped equipment. So far I have pair-programmed with the head developer to fix various bugs in the blog portion of the website. 
 
 I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), a single page React app that I built from scratch and styled using [Styled-Components](https://styled-components.com/). 
 
 ## 🌱 I'm currently learning...
-- [MongoDB](https://www.mongodb.com/new?tck=sitebannerdotlive)
-- [Webpack](https://webpack.js.org/)
-- [GraphQL](https://graphql.org/)
+- [Wordpress](https://wordpress.com/)
+- [PHP](https://www.php.net/)
+- [Python](https://www.python.org/)
 
 ## 📫 You can lear more about me and reach me at my...
 
