@@ -3,13 +3,13 @@
 # Hey there! 👋
 
 I’m Chase, 
-I currently am a Junior Web Developer Intern at [SetPatrol](https://www.setpatrol.com/) and am finishing up my time as a Full-Stack Web Development student at [Lambda School](https://lambdaschool.com/courses/full-stack-web-development). My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am passionate about creating solutions, iterating on well-designed applications with impeccable UI/UX and and find deep satisfaction in collaborating with teams to build software that makes a difference in people's lives and the world. 
+I am currently a Junior Web Developer Intern at [SetPatrol](https://www.setpatrol.com/) and am finishing up my time as a Full-Stack Web Development student at [Lambda School](https://lambdaschool.com/courses/full-stack-web-development). My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am passionate about creating solutions, iterating on well-designed applications with impeccable UI/UX and and find deep satisfaction in collaborating with teams to build software that makes a difference in people's lives and the world. 
 
 <details>
   <summary>LEARN MORE!</summary>
   
 ## 🔭 I'm currently working on...
-[SetPatrol](https://www.setpatrol.com/), SetPatrol is a marketplace where people who need high-end photography and film equipment can find people who are willing to rent it out. There is a huge problem in the film industry and SetPatrol is trying to change all that. As StoryTellers we work in a field focused on results. Clients are fixated on beautiful, dramatic and creative work. We are victims of our own success; a high demand market, quick turnarounds and forever revamped equipment. So far I have pair-programmed with the head developer to fix various bugs in the blog portion of the website. 
+[SetPatrol](https://www.setpatrol.com/), SetPatrol is a marketplace where people who need high-end photography and film equipment can find people who are willing to rent it out. There is a huge problem in the film industry and SetPatrol is trying to change all that. As StoryTellers we work in a field focused on results. Clients are fixated on beautiful, dramatic and creative work. We are victims of our own success; a high demand market, quick turnarounds and forever revamped equipment. So far I have pair-programmed with the head developer to fix various bugs in the blog portion of the website while learning PHP & Wordpress and gaining experience in navigating an existing codebase. 
 
 I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), a single page React app that I built from scratch and styled using [Styled-Components](https://styled-components.com/). 
 
