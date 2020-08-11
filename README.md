@@ -1,4 +1,4 @@
-![portfolioheader](https://lh3.googleusercontent.com/pw/ACtC-3eDAQ6sIC46FsIuzAqVjumGMeNej_jvZJLSbwTbmmqlGas8VeuEQlPTw8PoHaBMS2I53TsQ0pk_mBAQtQEmDBm3blV3qmETwz0mQIjmxtb1jaaL6T1GuZddgSgjRnxtjjbp4dCPypIEg6-2AinJJsWZ=w3500-h1440-no?authuser=0)
+![portfolioheader](https://lh3.googleusercontent.com/pw/ACtC-3fnQJqdkRUBVAU4HVweCTRljPh-CjF-d6dKLlADiYK7OAO8EZonx0nrY4fxpA0Xh2tHObWGgKJTldPXHCbU4JFBqn2oU_PCnyRwPsRl7eBrEL1WOW8emIZQxOn99ks1mv3k4RjRZuzGSQSZ-N-LBnsp=w3500-h1440-no?authuser=0)
 
 # Hey there! 👋
 
