@@ -2,8 +2,7 @@
 
 # Hey there! 👋
 
-I’m Chase, 
-I'm currently a Junior Web Developer Intern at [SetPatrol](https://www.setpatrol.com/) and am finishing up my time as a Full-Stack Web Development student at [Lambda School](https://lambdaschool.com/courses/full-stack-web-development). My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am passionate about creating solutions, iterating on well-designed applications with impeccable UI/UX and and find deep satisfaction in collaborating with teams to build software that makes a difference in people's lives and the world. 
+I’m Chase; currently a Junior Web Developer Intern at [SetPatrol](https://www.setpatrol.com/) and finishing up my time as a Full-Stack Web Development student at [Lambda School](https://lambdaschool.com/courses/full-stack-web-development). My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am passionate about creating solutions, iterating on well-designed applications with impeccable UI/UX and and find deep satisfaction in collaborating with teams to build software that makes a difference in people's lives and the world. 
 
 <details>
   <summary>LEARN MORE!</summary>
