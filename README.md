@@ -2,10 +2,10 @@
 
 # Hey there! 👋
 
-I’m Chase; currently a Junior Web Developer Intern at [SetPatrol](https://www.setpatrol.com/) and finishing up my time as a Full-Stack Web Development student at [Lambda School](https://lambdaschool.com/courses/full-stack-web-development). My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am passionate about solving problems, utlizing my passion for well designed applications and find deep satisfaction in collaborating with teams to build high-quality software that makes a difference in people's lives and the world. 
+I’m Chase; currently a Junior Web Developer Intern at [SetPatrol](https://www.setpatrol.com/) and finishing up my time as a Full-Stack Web Development student at [Lambda School](https://lambdaschool.com/courses/full-stack-web-development). My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am passionate about solving problems, designing thoughtful and polished applications and find deep satisfaction in collaborating with teams to build high-quality software that makes a difference in people's lives and the world. 
 
 <details>
-  <summary>LEARN MORE!!  🧠</summary>
+  <summary>LEARN MORE!! 👇</summary>
   
 ## 🔭 I'm currently working on...
 [SetPatrol](https://www.setpatrol.com/), a marketplace where people who need high-end photography and film equipment can find people who are willing to rent it out. There is a huge problem in the film industry and SetPatrol is trying to change all that. Our main mission is to solve problems that every filmmaker faces; the cost and availability of professional gear to rent and buy. It is our first priority to be a democratized platform for all storytellers to interact and collaborate. So far I have pair-programmed with the head developer to fix various bugs in the blog portion of the website while learning PHP & Wordpress and gaining experience in navigating an existing codebase. I also recently developed a [double slider](https://codepen.io/ChaseOfTheCollins/pen/xxVGwae) that takes in a gear value and days you want to rent it and outputs an amount of money you could earn using HTML, CSS & JavaScript. 
