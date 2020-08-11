@@ -1,4 +1,4 @@
-![portfolioheader](https://lh3.googleusercontent.com/pw/ACtC-3crywxrxouU3beWHBLCTw-9GTdNc5WjCuIO1Zm0HpqQvIoiRcmAs3juql6ue7YD97dj5J8poDkVzhI1PyZlRtjaraZmRmp1hyBg4BQHa5E8fMrapd6Z-6h2y3IEVOJrKYvjWBc276ZP8LRate5QwsqQ=w3500-h1440-no?authuser=0)
+![portfolioheader](https://lh3.googleusercontent.com/pw/ACtC-3fog7kqfyobb9h9Tb9xBKdQzOLIZCj1uUxrBuLR3AarEtKlGcC9p-3e_d07WIzBjvR-pThC135EeGG_r0ULn5YCqEoWO5cKhHyYNlnGFUJpS0wsC0ftBiWGQY6oE9DCVah2rqd2Kp_y4ges644n335I=w1920-h790-no?authuser=0)
 
 # Hey there! 👋
 
@@ -8,7 +8,7 @@ I’m Chase; currently a Junior Web Developer Intern at [SetPatrol](https://www.
   <summary>LEARN MORE!! 👇</summary>
   
 ## 🔭 I'm currently working on...
-[SetPatrol](https://www.setpatrol.com/), a marketplace where people who need high-end photography and film equipment can find people who are willing to rent it out. There is a huge problem in the film industry and SetPatrol is trying to change all that. Our main mission is to solve problems that every filmmaker faces; the cost and availability of professional gear to rent and buy. It is our first priority to be a democratized platform for all storytellers to interact and collaborate. So far I have pair-programmed with the head developer to fix various bugs in the blog portion of the website while learning PHP & Wordpress and gaining experience in navigating an existing codebase. I also recently developed a [double slider](https://codepen.io/ChaseOfTheCollins/pen/xxVGwae) that takes in a gear value and days you want to rent it and outputs an amount of money you could earn using HTML, CSS & JavaScript. 
+[SetPatrol](https://www.setpatrol.com/), a marketplace where people who need high-end photography and film equipment can find people who are willing to rent it out. There is a huge problem in the film industry and SetPatrol is trying to change all that. The main mission is to solve problems that every filmmaker faces; the cost and availability of professional gear to rent and buy. It is SetPatrol's first priority to be a democratized platform for all storytellers to interact and collaborate. So far I have pair-programmed with the head developer to fix various bugs in the blog portion of the website while learning PHP & Wordpress and gaining experience in navigating an existing codebase. I also recently developed a [double slider](https://codepen.io/ChaseOfTheCollins/pen/xxVGwae) that takes in a gear value and days you want to rent it and outputs an amount of money you could earn using HTML, CSS & JavaScript. 
 
 I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), a single page React app that I built from scratch and styled using [Styled-Components](https://styled-components.com/). 
 
