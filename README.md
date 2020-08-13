@@ -5,7 +5,9 @@
 A little about me: 
 
 🙂 I’m Chase; currently a Junior Web Developer Intern at [SetPatrol](https://www.setpatrol.com/) and finishing up my time as a Full-Stack Web Development student at [Lambda School](https://lambdaschool.com/courses/full-stack-web-development). 
+
 🛠 My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. 
+
 😍 I am passionate about solving problems, designing thoughtful and polished applications and find deep satisfaction in collaborating with teams to build high-quality software that makes a difference in people's lives and the world. 
 
 <details>
@@ -30,6 +32,8 @@ I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), 
 📌 [LinkedIn](https://www.linkedin.com/in/chase-collins42/)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Chase-42&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chase-42&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
 
 ## ⚡ Some trivia about me...
 I've been a head coffee roaster for 3+ years at two high-end specialty coffee roasters in Northern Colorado. This has honed my skills in organization, problem-solving (coffee is seasonal and varies from farm to farm, so never a constant variable), communication & self-motivation. I've maintained and excelled at this full-time job while learning web development in the evenings and weekends at [Lambda School](https://lambdaschool.com/), a fully remote 18 month bootcamp that teaches Full-Stack Web Development & Computer Science through hands on curriculum and fosters a Agile software development environment throughout the entire course. 
