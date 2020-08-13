@@ -2,7 +2,7 @@
 
 # Hey there! 👋
 
-A little about me: 
+A <b>few pointers</b> on me: 
 
 🙂 I’m Chase; currently a Junior Web Developer Intern at [SetPatrol](https://www.setpatrol.com/) and finishing up my time as a Full-Stack Web Development student at [Lambda School](https://lambdaschool.com/courses/full-stack-web-development). 
 
