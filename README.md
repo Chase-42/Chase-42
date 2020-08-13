@@ -2,7 +2,11 @@
 
 # Hey there! 👋
 
-I’m Chase; currently a Junior Web Developer Intern at [SetPatrol](https://www.setpatrol.com/) and finishing up my time as a Full-Stack Web Development student at [Lambda School](https://lambdaschool.com/courses/full-stack-web-development). My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. I am passionate about solving problems, designing thoughtful and polished applications and find deep satisfaction in collaborating with teams to build high-quality software that makes a difference in people's lives and the world. 
+A little about me: 
+
+🙂 I’m Chase; currently a Junior Web Developer Intern at [SetPatrol](https://www.setpatrol.com/) and finishing up my time as a Full-Stack Web Development student at [Lambda School](https://lambdaschool.com/courses/full-stack-web-development). 
+🛠 My specialties include: JavaScript, React, HTML, CSS(Less/Semantic-UI/Material-UI/Styled-Components) & Node/Express. 
+😍 I am passionate about solving problems, designing thoughtful and polished applications and find deep satisfaction in collaborating with teams to build high-quality software that makes a difference in people's lives and the world. 
 
 <details>
   <summary>LEARN MORE!! 👇</summary>
@@ -17,13 +21,13 @@ I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), 
 - [PHP](https://www.php.net/)
 - [Python](https://www.python.org/)
 
-## 📫 You can lear more about me and reach me at my...
+## 📫 Links where you can find me!
 
-[Portfolio](https://chasecollins.tech)
+📌 [Portfolio](https://chasecollins.tech)
 
-[Resume](https://resume.creddle.io/resume/8qf10czfrxt)
+📌 [Resume](https://resume.creddle.io/resume/8qf10czfrxt)
 
-[LinkedIn](https://www.linkedin.com/in/chase-collins42/)
+📌 [LinkedIn](https://www.linkedin.com/in/chase-collins42/)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Chase-42&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
