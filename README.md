@@ -21,6 +21,7 @@ I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), 
 - [Python](https://www.python.org/)
 - [PHP](https://www.php.net/)
 - [Wordpress](https://wordpress.com/)
+- [Typescript](https://www.typescriptlang.org/)
 
 
 ## 📫 Links where you can find me:
