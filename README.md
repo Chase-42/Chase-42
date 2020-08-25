@@ -12,7 +12,7 @@ A <b>few pointers</b> on me:
   <summary>LEARN MORE!! 👇</summary>
   
 ## 🔭 I'm currently working on:
-[SetPatrol](https://www.setpatrol.com/), a marketplace where people who need high-end photography and film equipment can find people who are willing to rent it out. SetPatrol's seeks to be a democratized platform for all storytellers to interact and collaborate. So far I have pair-programmed with the head developer to fix various bugs in website while gaining valuable experience developing production PHP, JavaScript, HTML & CSS code while navigating an existing codebase in Wordpress. I also recently designed, developed & styled a [double slider](https://codepen.io/ChaseOfTheCollins/pen/xxVGwae) that takes in a gear value and days you want to rent it and outputs an amount of money you could earn using HTML, CSS & JavaScript. 
+[SetPatrol](https://www.setpatrol.com/), a marketplace where people who need high-end photography and film equipment can find people who are willing to rent it out.So far I have pair-programmed with the lead developer to fix various bugs in website while gaining valuable experience developing production PHP, JavaScript, HTML & CSS code while navigating an existing codebase in Wordpress. I also recently designed, developed & styled a [double slider](https://codepen.io/ChaseOfTheCollins/pen/xxVGwae) that has a gear value and days you want to rent it and outputs an amount of money you could earn using HTML, CSS & JavaScript. 
 
 I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), a single page React app that I built from scratch and styled using [Styled-Components](https://styled-components.com/). 
 
@@ -21,7 +21,7 @@ I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), 
 - [Python](https://www.python.org/)
 - [PHP](https://www.php.net/)
 - [Wordpress](https://wordpress.com/)
-- [Typescript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 
 ## 📫 Links where you can find me:
@@ -46,7 +46,8 @@ I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), 
 ## ⚡ Some trivia about me:
 I've been a head coffee roaster for 4+ years at two high-end specialty coffee roasters in Northern Colorado. This has honed my skills in organization, problem-solving (coffee is seasonal and varies from farm to farm, so never a constant variable), communication & self-motivation. I've maintained and excelled at this full-time job while learning web development in the evenings and weekends at [Lambda School](https://lambdaschool.com/), a fully remote 18 month bootcamp that teaches Full-Stack Web Development & Computer Science through hands on curriculum and fosters a Agile software development environment throughout the entire course. 
 
-I'm an avid rock climber and corgi dad. 
+I'm an avid rock climber and enthusiastic corgi dad. 
+
 
 I'm a voracious reader who always has a stack of books I'm reading (Sci-Fi, Fantasy, Literature, Philosophy, Science & History). 
 
