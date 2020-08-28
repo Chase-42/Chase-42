@@ -2,7 +2,7 @@
 
 # Hey there! 👋
 
-A <b>few pointers</b> on me: 
+Some info about me: 
 ![info-object](https://lh3.googleusercontent.com/pw/ACtC-3fGn-KPWiUGYwSFrckbbykUgDqW03NYMvBqffkUiB1UavhgFuL1Y63BpIQsyIlJEE8iS0Utn-pz3lPrS_rbLHpxpPf3-Cahmctuaurvat7gTR8HNdVYNelI0TbtzS4TGzEAL5xsBAgurHZmbfDTUDty=w1656-h1272-no?authuser=0)
 
 
@@ -34,13 +34,10 @@ I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), 
 
 
 ## 📈 My GitHub Stats:
-
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Chase-42&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## ⌨️ My Top Languages:
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chase-42&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
 
-When I'm not able to read I'm usually listening to a podcast (Music, Philosophy, Science or Film) or music (Death, Doom & Black metal).  
 </details>
 
