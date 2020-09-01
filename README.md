@@ -7,7 +7,7 @@ Some info about me:
 
 
 <details>
-  <summary>LEARN MORE!! 👇</summary>
+  <summary><b>LEARN MORE!!</b> 👇</summary>
   
 ## 🔭 I'm currently working on:
 [SetPatrol](https://www.setpatrol.com/), a marketplace where people who need high-end photography and film equipment can find people who are willing to rent it out. So far I have pair-programmed with the lead developer to fix various bugs in website while gaining valuable experience developing production PHP, JavaScript, HTML & CSS code while navigating an existing codebase in Wordpress. I also recently designed, developed & styled a [double slider](https://codepen.io/ChaseOfTheCollins/pen/xxVGwae) that has a gear value and days you want to rent it and outputs an amount of money you could earn using HTML, CSS & JavaScript. 
