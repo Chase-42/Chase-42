@@ -3,7 +3,7 @@
 # Hey there! 👋
 
 Some info about me: 
-![info-object](https://lh3.googleusercontent.com/pw/ACtC-3f09D6VUZcqk-OpoETFcX3vns9e48DUh5ruHeU7BK1WYKFPTb57gyqxyL4aNt1qDQaS5IkH1fUcxY5R1h0SI3jAK0T6X4turdmFJlnqKH48r2PdSEjHvz7omNwUeEqoZOJW8G1LsNCbzsJvCtPFR62T=w1674-h1164-no?authuser=0)
+![info-object](https://lh3.googleusercontent.com/pw/ACtC-3d3G8VMTuUUbCFF8_IQnPKPzB7ZAevgKoroENA44T12_olteShswCgQDU12sOBIc-PgIpCpv08GQ58RtB8eCuwcM0_flQKwu_NQhqhyiwV0K_Fzcbu3vQxuLaVAh8L7RYnUTTiY-VmN_VHl6EsHlxuH=w1674-h1164-no?authuser=0)
 
 
 <details>
