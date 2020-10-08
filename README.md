@@ -1,9 +1,9 @@
-![portfolioheader](https://lh3.googleusercontent.com/pw/ACtC-3d-zOf1SA3vwwucch9Pux-QiFMEiMG_loFUDlLQvfefeAk_VxJMQ3zqVG7uSFTfCxgJjAz_59i6cL1PR9eDVMzQipbN7K-Xhd4ik--62G6MNTQ_UwAdCMxs45b2CAQQcsWfGElgFPVgRyQmwz3gpHvu=w2600-h676-no?authuser=0)
+![portfolioheader](https://lh3.googleusercontent.com/pw/ACtC-3e8CMAY5FhZKwSuRgF0RRev9cAzeXmbzQOnn70P0gURNqSueEYWCmo75nJCmhHEDBTN385FNq2IuZn49xE3xBmmlAC2fM34Z_oyeUdu8O7BeAfSr-KTXX7ExJiYLBFN7Xh2597VABXtI-PatVlPGW7C=w3360-h602-no?authuser=0)
 
 # Hey there! 👋
 
 Some info about me: 
-![info-object](https://lh3.googleusercontent.com/pw/ACtC-3cgMFHMEdBhgiTme0e-ikzzjC2D6lkr6hcuoQcI5I8d0yTG9bbvqytK0v8-4tNVHCYa8g63yL4_GYEEdJMzF3YMRpJK64zqN3DCtxgO-yedLT9uhDyxLC_1MGrmULY3mwpHTAHy59p1ccsgd1A2U5m_=w1674-h1164-no?authuser=0)
+![info-object](https://lh3.googleusercontent.com/pw/ACtC-3f09D6VUZcqk-OpoETFcX3vns9e48DUh5ruHeU7BK1WYKFPTb57gyqxyL4aNt1qDQaS5IkH1fUcxY5R1h0SI3jAK0T6X4turdmFJlnqKH48r2PdSEjHvz7omNwUeEqoZOJW8G1LsNCbzsJvCtPFR62T=w1674-h1164-no?authuser=0)
 
 
 <details>
