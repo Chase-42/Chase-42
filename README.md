@@ -3,14 +3,14 @@
 # Hey there! 👋
 
 Some info about me: 
-![info-object](https://lh3.googleusercontent.com/pw/ACtC-3fGn-KPWiUGYwSFrckbbykUgDqW03NYMvBqffkUiB1UavhgFuL1Y63BpIQsyIlJEE8iS0Utn-pz3lPrS_rbLHpxpPf3-Cahmctuaurvat7gTR8HNdVYNelI0TbtzS4TGzEAL5xsBAgurHZmbfDTUDty=w1656-h1272-no?authuser=0)
+![info-object](https://lh3.googleusercontent.com/pw/ACtC-3cgMFHMEdBhgiTme0e-ikzzjC2D6lkr6hcuoQcI5I8d0yTG9bbvqytK0v8-4tNVHCYa8g63yL4_GYEEdJMzF3YMRpJK64zqN3DCtxgO-yedLT9uhDyxLC_1MGrmULY3mwpHTAHy59p1ccsgd1A2U5m_=w1674-h1164-no?authuser=0)
 
 
 <details>
   <summary><b>LEARN MORE!!</b> 👇</summary>
   
 ## 🔭 I'm currently working on:
-[SetPatrol](https://www.setpatrol.com/), a marketplace where people who need high-end photography and film equipment can find people who are willing to rent it out. So far I have pair-programmed with the lead developer to fix various bugs in website while gaining valuable experience developing production PHP, JavaScript, HTML & CSS code while navigating an existing codebase in Wordpress. I also recently designed, developed & styled a [double slider](https://codepen.io/ChaseOfTheCollins/pen/xxVGwae) that has a gear value and days you want to rent it and outputs an amount of money you could earn using HTML, CSS & JavaScript. 
+[SetPatrol](https://www.setpatrol.com/), a marketplace where people who need high-end photography and film equipment can find people who are willing to rent it out. 
 
 I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), a single page React app that I built from scratch and styled using [Styled-Components](https://styled-components.com/). 
 
