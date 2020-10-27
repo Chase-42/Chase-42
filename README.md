@@ -1,9 +1,15 @@
-![portfolioheader](https://lh3.googleusercontent.com/pw/ACtC-3e8CMAY5FhZKwSuRgF0RRev9cAzeXmbzQOnn70P0gURNqSueEYWCmo75nJCmhHEDBTN385FNq2IuZn49xE3xBmmlAC2fM34Z_oyeUdu8O7BeAfSr-KTXX7ExJiYLBFN7Xh2597VABXtI-PatVlPGW7C=w3360-h602-no?authuser=0)
-
 # Hey there! 👋
 
 Some info about me: 
 ![info-object](https://lh3.googleusercontent.com/pw/ACtC-3d3G8VMTuUUbCFF8_IQnPKPzB7ZAevgKoroENA44T12_olteShswCgQDU12sOBIc-PgIpCpv08GQ58RtB8eCuwcM0_flQKwu_NQhqhyiwV0K_Fzcbu3vQxuLaVAh8L7RYnUTTiY-VmN_VHl6EsHlxuH=w1674-h1164-no?authuser=0)
+
+
+
+## 📈 My GitHub Stats:
+![My github stats](https://github-readme-stats.vercel.app/api?username=Chase-42&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+## ⌨️ My Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chase-42&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
 
 
 <details>
@@ -31,13 +37,6 @@ I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), 
 📌 [LinkedIn](https://www.linkedin.com/in/chase-collins42/)
 
 📌 [dev.to](https://dev.to/chase42)
-
-
-## 📈 My GitHub Stats:
-![My github stats](https://github-readme-stats.vercel.app/api?username=Chase-42&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-## ⌨️ My Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chase-42&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
 
 </details>
 
