@@ -1,7 +1,6 @@
 # Hey there! 👋
 
-Some info about me: 
-![info-object](https://lh3.googleusercontent.com/pw/ACtC-3d3G8VMTuUUbCFF8_IQnPKPzB7ZAevgKoroENA44T12_olteShswCgQDU12sOBIc-PgIpCpv08GQ58RtB8eCuwcM0_flQKwu_NQhqhyiwV0K_Fzcbu3vQxuLaVAh8L7RYnUTTiY-VmN_VHl6EsHlxuH=w1674-h1164-no?authuser=0)
+Some info about me: ![info-object](https://lh3.googleusercontent.com/pw/ACtC-3d3G8VMTuUUbCFF8_IQnPKPzB7ZAevgKoroENA44T12_olteShswCgQDU12sOBIc-PgIpCpv08GQ58RtB8eCuwcM0_flQKwu_NQhqhyiwV0K_Fzcbu3vQxuLaVAh8L7RYnUTTiY-VmN_VHl6EsHlxuH=w1674-h1164-no?authuser=0)
 
 <details>
   <summary><b>LEARN MORE!!</b> 👇</summary>
@@ -20,8 +19,6 @@ I'm also constantly tweaking my [portfolio website](https://chasecollins.tech), 
 ## 🌱 I'm currently learning:
 
 - [Python](https://www.python.org/)
-- [PHP](https://www.php.net/)
-- [Wordpress](https://wordpress.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 
